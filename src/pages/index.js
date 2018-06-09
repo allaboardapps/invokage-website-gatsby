@@ -63,7 +63,7 @@ class Index extends React.Component {
             <ul className="features">
               <li>
                 <span className="icon major style3 fa-microphone"></span>
-                <h3>Ref Check</h3>
+                <h3>Ref Rules</h3>
                 <p>A voice interface (think Alexa, Siri, and Google Assistant) for training football referees.</p>
               </li>
               <li>
