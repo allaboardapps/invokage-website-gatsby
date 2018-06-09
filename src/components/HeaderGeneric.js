@@ -1,4 +1,7 @@
 import React from 'react'
+import Link from 'gatsby-link'
+
+import logo from '../assets/images/invokage_logo.png';
 
 const HeaderGeneric = (props) => (
   <header id="header" className="alt">
