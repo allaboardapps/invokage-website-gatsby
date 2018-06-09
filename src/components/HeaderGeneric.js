@@ -1,13 +1,11 @@
-import React from 'react'
-import Link from 'gatsby-link'
 
-import logo from '../assets/images/invokage_logo.png';
+import React from 'react'
 
 const HeaderGeneric = (props) => (
-  <header id="header" className="alt">
-    <h1><span className="logo"><img src={logo} alt="" /></span></h1>
-    <p>An application development firm <br/>building new interfaces <br/>for modern communications</p>
-  </header>
+    <header id="header">
+        <h1>Invokage</h1>
+        <p>An application development firm building new interfaces for modern communications</p>
+    </header>
 )
 
 export default HeaderGeneric
