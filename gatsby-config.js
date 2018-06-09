@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: "Invokage ()",
+    title: "Invokage | Home Page",
     author: "Don VanDemark and Randy Burgess",
     description: "An application development firm building new interfaces for modern communications"
   },

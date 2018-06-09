@@ -1,10 +1,10 @@
 import React from 'react'
 
 const HeaderGeneric = (props) => (
-    <header id="header">
-        <h1>Generic</h1>
-        <p>Ipsum dolor sit amet nullam</p>
-    </header>
+  <header id="header" className="alt">
+    <h1><span className="logo"><img src={logo} alt="" /></span></h1>
+    <p>An application development firm <br/>building new interfaces <br/>for modern communications</p>
+  </header>
 )
 
 export default HeaderGeneric
