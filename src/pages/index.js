@@ -51,9 +51,6 @@ class Index extends React.Component {
                   <h2>Who We Are</h2>
                 </header>
                 <p>Don VanDemark and Randy Burgess are the founders of Invokage. Friends for over a decade, they finally decided to put their heads together and build things.</p>
-                <ul className="actions">
-                  <li><Link to="/generic" className="button">Learn More</Link></li>
-                </ul>
               </div>
               <span className="image"><img src={whoWeAre} alt="Don VanDemark and Randy Burgess portraits" /></span>
             </div>
